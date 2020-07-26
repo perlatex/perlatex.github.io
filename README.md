@@ -21,7 +21,7 @@
 | week02 	| R语言基础         	| 基本运算、数据类型、数据结构、常用统计函数、分支，循环等，了解脚本、宏包，以及如何获取帮助 	| 2    	| [02_basicR.pdf](https://github.com/perlatex/R4DS_slides/blob/master/02_basicR/02_basicR.pdf)          	|      	|
 | week03 	| 子集选取          	| 向量、列表、矩阵、数据框                                                                   	| 2    	| [03_subset.pdf](https://github.com/perlatex/R4DS_slides/blob/master/03_subset/03_subset.pdf)          	|      	|
 | week04 	| 可重复性研究      	| Rmarkdown语法，生成html格式报告、生成pdf格式报告、生成word格式报告                         	| 2    	| [04_Rmarkdown.pdf](https://github.com/perlatex/R4DS_slides/blob/master/04_Rmarkdown/04_Rmarkdown.pdf) 	|      	|
-| week05 	| 数据处理          	| 读取外部数据，存储数据，dplyr数据处理，案例讲解                                            	| 2    	| [05_dplyr.pdf](https://github.com/perlatex/R4DS_slides/blob/master/05_dplyr/05_dplyr.pdf)                 	|      	|
+| week05 	| 数据处理          	| 读取外部数据，存储数据，dplyr数据处理，案例讲解                                            	| 2    	| [05_dplyr.pdf](https://github.com/perlatex/R4DS_slides/blob/master/05_dplyr/05_dplyr.pdf)             	|      	|
 | week06 	| 数据可视化1       	| ggplot2基本语法、映射、设置、图片保存                                                      	| 2    	|                                                                                                       	|      	|
 | week07 	| 数据可视化2       	| 几何对象、主题风格、标度体系、图例系统                                                     	| 2    	|                                                                                                       	|      	|
 | week08 	| 探索性数据分析1   	| 结合案例数据，综合运用数据处理、可视化探索技能                                             	| 2    	|                                                                                                       	|      	|
