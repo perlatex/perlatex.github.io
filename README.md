@@ -40,14 +40,14 @@
 
 
 ### 关于考核
-结合所在学科，找一篇与自己研究方向相关的文献，用课堂上学到的 R 统计编程技能，**重复**文献的数据分析和可视化过程
+结合所在学科，找一篇与自己研究方向相关的文献，用课堂上学到的 R 统计编程技能，**重复**文献的数据分析和可视化过程.
 
 
 
 
 ### 参考书目
 - [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)
-- [https://bookdown.org/wangminjie/R4DS/](https://bookdown.org/wangminjie/R4DS/).
+- [https://bookdown.org/wangminjie/R4DS/](https://bookdown.org/wangminjie/R4DS/)
 
 
 
