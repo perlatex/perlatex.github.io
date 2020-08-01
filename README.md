@@ -1,6 +1,6 @@
 这里是《数据科学中的R语言》的课程内容
 
-![data science](data_science.jpg){:height="50%" width="50%"}
+<img src="data_science.jpg" height="300px" width="300px" >
 
 ### 课程简介
 
