@@ -1,10 +1,8 @@
 这里是《数据科学中的R语言》的课程内容
 
-<img src="data_science.jpg" height="400px" width="450px" class="center">
+<center><img src="data_science.jpg" height="400px" width="450px"></center>
 
-```{r, fig.cap="image description", out.width = '50%'}
-knitr::include_graphics('data_science.jpg')
-```
+
 
 ### 课程简介
 
