@@ -2,6 +2,10 @@
 
 <img src="data_science.jpg" height="400px" width="450px" class="center">
 
+```{r, fig.cap="image description", out.width = '50%'}
+knitr::include_graphics('data_science.jpg')
+```
+
 ### 课程简介
 
 - 数据科学是综合了统计学、计算机科学和专业领域的交叉学科，具体内容就是用数据的方法研究科学，用科学的方法研究数据。
