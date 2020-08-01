@@ -1,6 +1,6 @@
 这里是《数据科学中的R语言》的课程内容
 
-<center><img src="data_science.jpg" height="400px" width="450px"></center>
+<p style="text-align:center;"><img src="data_science.jpg" height="400px" width="450px"></p>
 
 
 
